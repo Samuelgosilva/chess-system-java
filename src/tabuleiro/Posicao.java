@@ -10,11 +10,11 @@ public class Posicao {
         this.coluna = coluna;
     }
 
-    public int getLinha() {
+    public int getlinha() {
         return linha;
     }
 
-    public void setLinha(int linha) {
+    public void setlinha(int linha) {
         this.linha = linha;
     }
 
